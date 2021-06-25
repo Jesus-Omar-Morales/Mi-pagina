@@ -1,0 +1,193 @@
+body{
+	/*background-color: green;*/
+	background-image: url(http://estonoentraenelexamen.com/wp-content/uploads/2012/05/Copia-de-fondo.jpg);
+	background-position: center center;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	  
+
+  /* La imagen ocupa el 100% y se reescala */
+  background-size: cover;
+
+  /* Damos un color de fondo mientras la imagen está cargando  */
+  background-color: black;
+
+}
+
+#texto{
+
+	color: white;
+}
+
+
+nav{
+	margin: 0 10%;
+}
+
+.menu li{
+	list-style: none;
+	color:#000;
+	display: inline;
+	background:#fff;
+	margin: 0 20px;
+	border-radius: 5px;
+	padding: 8px  8px 8px 8px;
+}
+
+#seccion1{
+	color: white;
+	float: left;
+	width: 25%;
+	height: 200px;
+	margin: 90px 0 0 500px;
+	background-color:gray;
+	padding: 10px 10px 10px 10px;
+	border-radius: 50px;
+
+}
+
+#seccion2{
+
+	float: right;
+	width: 20%;
+	height: 350px;
+	margin: 0 450px 0 0;
+	background-color: none;
+	padding: 10px 10px 10px 10px;
+	border-radius: 50px;
+
+}
+
+#piepagin{
+    color:white;
+	text-align: center;
+	border-radius: 10px;
+	width: 40%;
+	margin: 35% 30% 10px;
+	height: 60px;
+	background-color: #00C1FF;
+	clear: both;
+	padding: 5px 5px 5px 5px ;
+}
+
+#piepagina{
+    color:white;
+	text-align: center;
+	border-radius: 10px;
+	width: 40%;
+	margin: 30px 30% 10px;
+	height: 60px;
+	background-color: #00C1FF;
+	clear: both;
+	padding: 5px 5px 5px 5px ;
+}
+
+/*--------------------------------*/
+
+
+
+
+#seccion3{
+
+	width: 20%;
+	height: 350px;
+	background-color: none;
+	padding: 10px 10px 10px 10px;
+	border-radius: 50px;
+
+}
+
+#seccion4{
+	color: white;
+
+	width: 60%;
+	height: 300px;
+	background-color: blue;
+	padding: 10px 10px 10px 10px;
+	border-radius: 50px;
+
+}
+
+/*Familia*/
+
+#seccion5{
+	
+	float: left;
+	color: white;
+	width: 25%;
+	height: 60px;
+	text-align: center;
+	margin: 180px 0 40px 500px;
+	background-color:#993C9C;
+	padding: 10px 10px 10px 10px;
+	border-radius: 50px;
+
+}
+#im{
+
+	float: right;
+	width: 18%;
+	height: 300px;
+	margin: 0 450px 0 0;
+	background-color: none;
+	padding: 5px 5px 5px 5px;
+	border-radius: 50px;
+
+}
+
+/*Pasatiempos*/
+
+#seccion6{
+	
+	float: right;
+	color: white;
+	width: 28%;
+	height: 150px;
+	text-align: center;
+	margin: 40px 450px 40px 10px;
+	background-color: darkblue;
+	padding: 10px 10px 10px 10px;
+	border-radius: 20px;
+
+}
+#ima{
+
+	float: left;
+	width: 16%;
+	height: 200px;
+	margin: 10px 0 0 450px;
+	background-color: none;
+	padding: 5px 5px 5px 5px;
+	border-radius: 50px;
+
+}
+
+/*Redes*/
+
+#seccion7{
+	
+	float: right;
+	color: white;
+	width: 28%;
+	height: 100px;
+	text-align: center;
+	margin: 40px 450px 40px 10px;
+	background-color: seagreen;
+	padding: 10px 10px 10px 10px;
+	border-radius: 20px;
+
+}
+#imag{
+
+	float: left;
+	width: 16%;
+	height: 180px;
+	margin: 10px 0 0 450px;
+	background-color: none;
+	padding: 5px 5px 5px 5px;
+	border-radius: 50px;
+
+}
+
+
+

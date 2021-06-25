@@ -1,0 +1,17 @@
+body{
+	/*background-color: green;*/
+	background-color: grey;
+	background-position: center center;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	  
+
+  /* La imagen ocupa el 100% y se reescala */
+  background-size: cover;
+
+  /* Damos un color de fondo mientras la imagen está cargando  */
+  background-color: #464646;
+
+
+
+}
